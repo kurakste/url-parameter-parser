@@ -1,10 +1,14 @@
 {
   "name": "url-parameter-parser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "parse GET parameters from url string and return object",
   "main": "./src/index.js",
   "scripts": {
     "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kurakste/url-parameter-parser.git"
   },
   "keywords": [
     "url",
