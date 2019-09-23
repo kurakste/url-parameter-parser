@@ -18,7 +18,8 @@
   ],
   "author": "kurakste",
   "license": "MIT",
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "jest": "^24.9.0"
   }
 }
