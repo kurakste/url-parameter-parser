@@ -1,6 +1,6 @@
 # Simple and lightweight url decoder.
   Just help extract key-value from GET URL string.
-  Result will be object key-value.
+  Result will be object {key: value, } 
 
 ## Installation
 
